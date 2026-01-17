@@ -1,0 +1,8 @@
+torch
+torchvision
+pandas
+seaborn
+matplotlib
+scikit-learn
+Pillow
+ultralytics
